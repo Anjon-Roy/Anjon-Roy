@@ -1,16 +1,21 @@
-## Hi there 👋
+ # Hi there, I'm Anjon Roy 👋
 
-<!--
-**Anjon-Roy/Anjon-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Mathematics Enthusiast | Aspiring Researcher | Future MSc in Canada 🇨🇦
 
-Here are some ideas to get you started:
+I am a Mathematics student from Dhaka, Bangladesh, passionate about problem-solving and analytical research. Currently preparing for MSc (Research-based) programs in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Interests:**
+- 📈 Applied Mathematics & Statistics
+- 🤖 Data Science & Machine Learning
+- 🧮 Mathematical Modeling
+
+**Skills:**
+`Python` `LaTeX` `MATLAB` `Statistics` `Problem Solving`
+
+**Current Goal:**
+- Preparing for IELTS & building strong research profile for Fall 2027 Intake in Canada.
+
+📫 **Reach me:** Let's connect via GitHub!
+
+---
+⭐ *From Dhaka with a dream to study in Canada*
